@@ -7,7 +7,7 @@ FONT = cv2.FONT_HERSHEY_PLAIN
 RECT = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))
 BLUE = (255, 0, 0)
 CYAN = (255, 255, 0)
-CALLIBRATION = 14022
+CALLIBRATION = 13940
 
 while True:
     retval, image = video.read()
