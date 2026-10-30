@@ -1,7 +1,7 @@
 # Fiber Detection and Length Measurement
 This repository contains the code for fiber detection and length measurement.
 
-## Screenshot
+## Preview
 <p align="center">
-  <img src="demo.jpg">
+  <img src="demo.gif">
 </p>
